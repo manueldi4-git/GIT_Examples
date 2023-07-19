@@ -1,2 +1,3 @@
 This first line was added in the development branch
 Wrong line to text1.txt
+Wrong line to text1.txt
